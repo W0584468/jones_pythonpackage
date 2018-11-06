@@ -1,5 +1,3 @@
-from Bio.Blast import NCBIXML
-
 setup(name='Jones Python Package',
       version='0.1',
       description='Read a matrix and run BLAST searches',
