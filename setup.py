@@ -6,7 +6,7 @@ setup(name='Jones Python Package',
       author='April',
       author_email='denzel.jones@selu.edu',
       license='MIT',
-      packages=['jones_pythonproject'],
+      packages=['jones_pythonpackage'],
       install_requires=[
           'dendropy',
           'pandas',
